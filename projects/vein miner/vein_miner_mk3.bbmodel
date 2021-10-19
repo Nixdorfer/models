@@ -1,11 +1,11 @@
 {
 	"meta": {
 		"format_version": "4.0",
-		"creation_time": 1634686357,
+		"creation_time": 1634686661,
 		"model_format": "modded_entity",
 		"box_uv": true
 	},
-	"name": "vein_miner_mk3_2",
+	"name": "vein_miner_mk3",
 	"geometry_name": "vein_miner_mk3",
 	"modded_entity_version": "1.15",
 	"visible_box": [1, 1, 0],
@@ -720,7 +720,6 @@
 			"to": [60, 26, 50.05438],
 			"autouv": 0,
 			"color": 0,
-			"rotation": [0, 0, 0],
 			"origin": [55, 25, 84.55438],
 			"uv_offset": [0, 117],
 			"faces": {
@@ -13299,7 +13298,6 @@
 			"to": [142.74619, 71.97056, 49.38659],
 			"autouv": 0,
 			"color": 5,
-			"rotation": [0, 0, 0],
 			"origin": [144.57953, 71.8039, 48.38659],
 			"uv_offset": [113, 300],
 			"faces": {
@@ -13338,7 +13336,6 @@
 			"to": [143.74619, 75.97056, 51.38659],
 			"autouv": 0,
 			"color": 5,
-			"rotation": [0, 0, 0],
 			"origin": [144.57953, 71.8039, 48.38659],
 			"uv_offset": [348, 430],
 			"faces": {
@@ -13377,7 +13374,6 @@
 			"to": [157.74619, 74.97056, 49.38659],
 			"autouv": 0,
 			"color": 5,
-			"rotation": [0, 0, 0],
 			"origin": [144.57953, 72.8039, 48.38659],
 			"uv_offset": [77, 96],
 			"faces": {
@@ -13842,7 +13838,6 @@
 			"to": [22.5, 82, 3.48097],
 			"autouv": 0,
 			"color": 0,
-			"rotation": [0, 0, 0],
 			"origin": [20, 93, 0],
 			"uv_offset": [236, 504],
 			"faces": {
@@ -14036,7 +14031,6 @@
 			"to": [20.5, 85, 1.48097],
 			"autouv": 0,
 			"color": 0,
-			"rotation": [0, 0, 0],
 			"origin": [20, 93, 0],
 			"uv_offset": [439, 457],
 			"faces": {
@@ -14075,7 +14069,6 @@
 			"to": [20.5, 88, 1.48097],
 			"autouv": 0,
 			"color": 0,
-			"rotation": [0, 0, 0],
 			"origin": [20, 93, 0],
 			"uv_offset": [0, 303],
 			"faces": {
@@ -14114,7 +14107,6 @@
 			"to": [20.5, 95, 3.48097],
 			"autouv": 0,
 			"color": 0,
-			"rotation": [0, 0, 0],
 			"origin": [20, 94, 0],
 			"uv_offset": [62, 541],
 			"faces": {
@@ -21319,7 +21311,6 @@
 			"to": [1, 120.71639, -7.49682],
 			"autouv": 0,
 			"color": 7,
-			"rotation": [0, 0, 0],
 			"origin": [-0.40901, 117.81969, -10.94464],
 			"uv_offset": [299, 504],
 			"faces": {
